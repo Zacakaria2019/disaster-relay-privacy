@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "MQTTClient.h"
-#include "../../lib/aes_utils.c"
+#include "../../../lib/aes_utils.c"
 
 #define ADDRESS     "tcp://localhost:1883"
 #define CLIENTID    "EncryptedSubscriber"
