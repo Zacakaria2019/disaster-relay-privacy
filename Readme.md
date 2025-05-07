@@ -141,5 +141,3 @@ We measured **average payload size** over 20 messages per mode:
 ## 📄 License
 
 This project is released under the MIT License. See [LICENSE](LICENSE).
-
-````
